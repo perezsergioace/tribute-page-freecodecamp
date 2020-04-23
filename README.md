@@ -22,3 +22,5 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 **User Story** #8 The `img` element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
 **User Story** #9 The `img` element should be centered within its parent element.
+
+![Image description](https://codepen.io/freeCodeCamp/pen/NNvBQW/image/large.png)
